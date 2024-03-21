@@ -27,4 +27,4 @@ To replicate or explore the analysis:
 
 ## Contact
 For any inquiries or feedback, feel free to contact me:
-- [LinkedIn](www.linkedin.com/in/amr-zidan-7871831a4)
+- www.linkedin.com/in/amr-zidan-7871831a4
