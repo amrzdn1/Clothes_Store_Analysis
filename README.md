@@ -1,7 +1,7 @@
 # Clothes Store Analysis Dashboard
 
 ## Overview
-This repository contains the code and documentation for my completion of a Capstone project focusing on clothes store data analysis. The project involved building a dashboard to analyze various aspects of a clothes store business, including sales trends, customer behavior, and inventory management.
+This repository contains documentation and data analysis results for my project focusing on clothes store data analysis. The project involved building a dashboard to analyze various aspects of a clothes store business, including sales trends, customer behavior, and inventory management. The dataset used for analysis was obtained from Kaggle.
 
 ## Project Objectives
 - Analyze a dataset containing clothes store sales and customer data.
